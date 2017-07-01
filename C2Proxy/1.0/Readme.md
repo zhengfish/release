@@ -8,8 +8,8 @@ Overview
 
 * Here is a screen shot  
 ![Screen Shot](./C2Proxy_ScreenShot.png "How it is running and showing...")
-* It is a relayed HTTP proxy program.
-  Yes, it works like CNTLM with a friendly GUI which help the end user.
+* It is a relayed HTTP proxy program.  
+Yes, it works like CNTLM with a friendly GUI which help the end user.
 * It can work with the upstream HTTP proxy which requires username/password authentication, then proxy the downstream programs which are not required or supported username/password authentication.
 
 Download Links
