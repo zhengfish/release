@@ -7,7 +7,7 @@ Overview
 --------
 
 * It is a relayed HTTP proxy program.  
-Yes, it works like CNTLM with a friendly GUI which help the end user.
+Yes, it works like CNTLM but with a friendly GUI which help the end user.
 * It can work with the upstream HTTP proxy which requires username/password authentication, then proxy the downstream programs which are not required or supported username/password authentication.
 
 
