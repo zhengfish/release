@@ -23,7 +23,7 @@ Screen Shot
 Download Links
 --------------
 
-* A portable [program](./C2Proxy_1.0.0.7z) for Windows win32/x86.
+* A portable program [v1.0.0](./C2Proxy_1.0.0.7z) for Windows win32/x86.
 * A main window [screen shot](./C2Proxy_main.png) while it is running.
-* A very simple [user guide](./Help.html).  
+* A very simple [user guide](./Readme.md).  
 yes, it is this page.
