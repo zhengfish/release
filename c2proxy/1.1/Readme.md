@@ -24,7 +24,7 @@ On Windows, it will run as a application with one GUI from one trayicon.
 The end user can configure the parameters in GUI setting window.
 * Linux/Ubuntu  
 On Ubuntu, it will run as a daemon without any GUI.
-The end user need to configure the username/password in /etc/c2proxy.json beforehand.
+The end user need to configure the username/password in /etc/c2proxy.ini beforehand.
 
 Screen Shot
 -----------
