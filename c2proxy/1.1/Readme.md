@@ -29,8 +29,8 @@ The end user need to configure the username/password in /etc/c2proxy.ini beforeh
 Download Links
 --------------
 
-* A portable program [v1.1.0](./c2proxy_1.1.0_ubuntu.7z) for Ubuntu.
-* A portable program [v1.1.0](./c2proxy_1.1.0_windows.7z) for Windows.
+* A portable program [v1.1.0](./c2proxy_1.1.0_ubuntu_x86_64.7z) for Ubuntu.
+* A portable program [v1.1.0](./c2proxy_1.1.0_windows_x86.7z) for Windows.
 * A main window [screen shot](./c2proxy_main.jpg) while it is running.
 * A very simple [user guide](./Readme.md).  
 Yes, it is this page.
