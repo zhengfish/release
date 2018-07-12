@@ -26,21 +26,11 @@ The end user can configure the parameters in GUI setting window.
 On Ubuntu, it will run as a daemon without any GUI.
 The end user need to configure the username/password in /etc/c2proxy.ini beforehand.
 
-Screen Shot
------------
-
-* Main Window on Windows  
-![Screen Shot](./c2proxy_main.jpg "How it is running and showing ...")
-  
-* Settings  
-![Screen Shot](./c2proxy_settings.jpg "You can configure your upstream HTTP_PROXY and its username/password.")
-
-
 Download Links
 --------------
 
 * A portable program [v1.1.0](./c2proxy_1.1.0_ubuntu.7z) for Ubuntu.
-* A portable program [v1.1.0](./c2proxy_1.1.0_win.7z) for Windows.
+* A portable program [v1.1.0](./c2proxy_1.1.0_windows.7z) for Windows.
 * A main window [screen shot](./c2proxy_main.jpg) while it is running.
 * A very simple [user guide](./Readme.md).  
 Yes, it is this page.
